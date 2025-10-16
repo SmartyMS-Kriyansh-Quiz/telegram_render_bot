@@ -1,4 +1,4 @@
-pyrogram==2.0.110
+pyrogram>=2.0.107
 tgcrypto==1.2.9
 aiohttp==3.9.4
 ffmpeg-python==0.2.0
